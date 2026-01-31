@@ -5,8 +5,6 @@
 #include "platform/platform.h"
 #include <stdio.h>
 
-//#define INPUT_DIR "/Users/jmaggio/Documents/Code/doc-viewer/example_input"
-
 #define THUMBNAIL_FOLDER_NAME "thumbnails"
 #define THREAD_ARENA_SIZE 32*1024
 
