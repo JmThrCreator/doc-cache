@@ -9,7 +9,7 @@ LDFLAGS = -g -fsanitize=address \
 
 LIB = $(wildcard lib/*.c)
 SRC = src/platform/mac.c
-OUT = bin/doc-cache
+OUT = bin/doc-cache-mac
 
 TEST_OUT = bin/test_runner
 
