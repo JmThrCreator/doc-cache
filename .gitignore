@@ -58,3 +58,4 @@ dkms.conf
 example_input/
 lib/munit/
 .clangd
+bin/doc-cache
